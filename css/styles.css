@@ -7,7 +7,7 @@ body {
 }
 
 .logo-zinhe {
-    width: 140px;
+    width: 130px;
     height: 50px;
 }
 
@@ -31,4 +31,30 @@ body {
     box-shadow: 0px 0px 5px #7D6944;
     background-color: #7D6944;
     border-color: #958462;
+}
+
+.imagem-capa {
+    height: 430px;
+    background-image: url("../images/capa_cozinhando.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 0;
+    position: relative;
+    top: -430px;
+}
+
+.conteudo-principal {
+    position: relative;
+    top: -740px;
+    z-index: 2;
+    text-align: center;
+    color: white;
+}
+
+.fundo {
+    background-color: rgba(125, 105, 68, 0.70);
+    height: 430px;
+    z-index: 1;
+    position: relative;
 }
