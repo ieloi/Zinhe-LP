@@ -33,6 +33,10 @@ body {
     border-color: #958462;
 }
 
+.capa {
+    height: 430px;
+}
+
 .imagem-capa {
     height: 430px;
     background-image: url("../images/capa_cozinhando.png");
@@ -57,4 +61,8 @@ body {
     height: 430px;
     z-index: 1;
     position: relative;
+}
+
+.categorias-comidas {
+    width: 380px;
 }
