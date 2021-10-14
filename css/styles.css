@@ -1,5 +1,13 @@
+/* Importação da fonte overlock */
+@import url('https://fonts.googleapis.com/css2?family=Overlock:wght@900&display=swap');
+
 body {
     background-color: #f7f6f2;
+}
+
+h1 {
+    font-family: 'Overlock', cursive;
+    font-weight: 900;
 }
 
 .fundo-navbar {
