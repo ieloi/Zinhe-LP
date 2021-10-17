@@ -1,5 +1,6 @@
-/* Importação da fonte overlock */
+/* Importação das fonte overlock e merriwheather */
 @import url('https://fonts.googleapis.com/css2?family=Overlock:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 
 body {
     background-color: #f7f6f2;
@@ -8,6 +9,11 @@ body {
 h1 {
     font-family: 'Overlock', cursive;
     font-weight: 900;
+}
+
+p {
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
 }
 
 .fundo-navbar {
@@ -83,7 +89,7 @@ h1 {
     border-radius: 20px;
 }
 
-.img-responsividade {
+.img-dispositivos {
     width: 400px;
 }
 
