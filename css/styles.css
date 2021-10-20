@@ -47,6 +47,10 @@ p {
     border-color: #958462;
 }
 
+.modal-header {
+    border-bottom: none;
+}
+
 .capa {
     height: 430px;
 }
