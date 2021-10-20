@@ -11,7 +11,8 @@ Página Web Responsiva com o objetivo de apresentar informações sobre a Aplica
 ### Outros Recursos Utilizados
 - Imagens por Undraw
 - Google Fonts
-- tailorbrands (logo)
-- unsplash
+- Tailorbrands (logo)
+- Unsplash
+- Vercel
 
 _obs: todas as imagens não pertencentes ao unsplash e undraw são utilizadas somente para fins de portfolio_
