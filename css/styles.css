@@ -1,0 +1,102 @@
+/* Importação das fonte overlock e merriwheather */
+@import url('https://fonts.googleapis.com/css2?family=Overlock:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+body {
+    background-color: #f7f6f2;
+}
+
+h1 {
+    font-family: 'Overlock', cursive;
+    font-weight: 900;
+}
+
+p {
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+}
+
+.fundo-navbar {
+    background-color: #C5BA9F;
+}
+
+.logo-zinhe {
+    width: 130px;
+    height: 50px;
+}
+
+.btn-link {
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+
+.btn-link:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.btn-primary {
+    background-color: #7D6944;
+    border-color: #958462;
+}
+
+.btn-primary:hover {
+    box-shadow: 0px 0px 5px #7D6944;
+    background-color: #7D6944;
+    border-color: #958462;
+}
+
+.capa {
+    height: 430px;
+}
+
+.imagem-capa {
+    height: 430px;
+    background-image: url("../images/capa_cozinhando.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 0;
+    position: relative;
+    top: -430px;
+}
+
+.conteudo-principal {
+    position: relative;
+    top: -760px;
+    z-index: 2;
+    text-align: center;
+    color: white;
+}
+
+.fundo {
+    background-color: rgba(125, 105, 68, 0.70);
+    height: 430px;
+    z-index: 1;
+    position: relative;
+}
+
+.categorias-comidas {
+    width: 380px;
+}
+
+.imagem-chef {
+    width: 100px;
+}
+
+.img-lista-itens {
+    border-radius: 20px;
+}
+
+.img-dispositivos {
+    width: 400px;
+}
+
+.img-icone-zinhe {
+    width: 60px;
+}
+
+footer {
+    background-color: #AD9F80;
+}
