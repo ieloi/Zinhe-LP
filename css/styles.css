@@ -47,6 +47,10 @@ p {
     border-color: #958462;
 }
 
+.modal-header {
+    border-bottom: none;
+}
+
 .capa {
     height: 430px;
 }
@@ -95,6 +99,10 @@ p {
 
 .img-icone-zinhe {
     width: 60px;
+}
+
+.logo-zinhe-modal {
+    width: 40px;
 }
 
 footer {
